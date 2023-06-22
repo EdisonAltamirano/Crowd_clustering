@@ -16,3 +16,4 @@ requests
 pandas
 numpy
 scikit-learn
+sklearn
