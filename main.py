@@ -60,5 +60,5 @@ def main():
     fig.show()
     page.show()
 if __name__ == "__main__":
-    st.set_page_config(page_title="Streamlit Gallery by Okld", page_icon="🎈", layout="wide")
+    st.set_page_config(page_title="Crowd clustering", page_icon="🤖", layout="wide")
     main()
