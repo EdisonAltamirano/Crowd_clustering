@@ -16,5 +16,4 @@ requests
 pandas
 numpy
 scikit-learn
-sklearn
 opencv-python
