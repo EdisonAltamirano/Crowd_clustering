@@ -12,7 +12,7 @@ import numpy as np
 
 def main():
     # page = page_group("p")
-    page.item("Crowd Color Clustering", apps.gallery, default=True)
+    # page.item("Crowd Color Clustering", apps.gallery, default=True)
     # Load the image using OpenCV
     image_path = "bracelet_color.jpg"  # Replace with the path to your image
     #image_path = "test.png"
