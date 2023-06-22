@@ -8,7 +8,7 @@ import numpy as np
 import plotly.graph_objects as go
 # from streamlit_gallery.utils.page import page_group
 
-# import streamlit as st
+import streamlit as st
 
 def main():
     # page = page_group("p")
