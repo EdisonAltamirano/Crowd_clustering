@@ -18,3 +18,4 @@ numpy
 scikit-learn
 opencv-contrib-python-headless
 plotly
+streamlit-gallery
