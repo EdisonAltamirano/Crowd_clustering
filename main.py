@@ -6,13 +6,12 @@ import plotly.express as px
 from sklearn.decomposition import PCA
 import numpy as np
 
-from streamlit_gallery import apps, components
-from streamlit_gallery.utils.page import page_group
+# from streamlit_gallery.utils.page import page_group
 
-import streamlit as st
+# import streamlit as st
 
 def main():
-    page = page_group("p")
+    # page = page_group("p")
     page.item("Crowd Color Clustering", apps.gallery, default=True)
     # Load the image using OpenCV
     image_path = "bracelet_color.jpg"  # Replace with the path to your image
@@ -57,7 +56,7 @@ def main():
 
     # Show the plot
     fig.show()
-    page.show()
+    # page.show()
 if __name__ == "__main__":
     st.set_page_config(page_title="Crowd clustering", page_icon="🤖", layout="wide")
     main()
