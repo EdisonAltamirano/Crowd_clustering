@@ -1,6 +1,5 @@
 
 import pandas as pd
-import plotly.graph_objects as go
 from sklearn.cluster import KMeans
 import cv2
 import plotly.express as px
