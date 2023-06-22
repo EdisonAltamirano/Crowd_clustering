@@ -5,7 +5,7 @@ import cv2
 import plotly.express as px
 from sklearn.decomposition import PCA
 import numpy as np
-
+import plotly.graph_objects as go
 # from streamlit_gallery.utils.page import page_group
 
 # import streamlit as st
